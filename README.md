@@ -3,7 +3,9 @@
 This repository contains my Software Engineering coursework and lab submissions, organized by lab number.
 
 ## Course Information
-
+- **Name:** Rakshan R
+- **SRN:** PES1UG24CS365
+- **Class:** 5F
 - **Course:** Software Engineering
 - **Semester:** Fifth Semester
 - **Repository:** [SE-Labs](https://github.com/rakshan-2006/SE-Labs)
