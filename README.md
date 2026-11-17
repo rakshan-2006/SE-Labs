@@ -63,6 +63,16 @@ SE-Labs/
 │       ├── Code_Coverage_Terminal.png
 │       └── Branch_Coverage_Terminal.png
 │
+├── Lab7/
+│   ├── bike_share_rental_parser.py
+│   ├── test_bike_share_rental_parser.py
+│   ├── PES1UG24CS365_Lab7.pdf
+│   ├── SS1_Original_Application.jpeg
+│   ├── SS2_Failing_Hypothesis_Tests.jpeg
+│   ├── SS3_Fixed_Application.jpeg
+│   ├── SS4_Passing_Hypothesis_Tests.jpeg
+│   └── README.md
+│
 └── README.md
 ```
 
@@ -76,6 +86,7 @@ SE-Labs/
 | **Lab 4** | LLM-Assisted Programming – High-Low Card Predictor | Debugging and extending a Pygame card prediction game using LLM-assisted development. |
 | **Lab 5** | Static Code Analysis – Pharmacy Management System | Code quality improvement, issue identification and security analysis using Pylint, Flake8 and Bandit. |
 | **Lab 6** | Code & Branch Coverage – Bike Share Rental | Automated test case design and statement/branch coverage analysis using pytest and coverage.py. |
+| **Lab 7** | Fuzz Testing – Bike Share Rental | Input validation and fuzz testing of bike-share parser functions using Hypothesis and pytest. |
 
 ## Tools & Technologies
 
@@ -85,6 +96,7 @@ SE-Labs/
 - **Pygame** – Game development.
 - **Pylint, Flake8 and Bandit** – Static code analysis.
 - **pytest and coverage.py** – Test automation and coverage analysis.
+- **Hypothesis** – Property-based testing and fuzz testing.
 
 ## Notes
 
